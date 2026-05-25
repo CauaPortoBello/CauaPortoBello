@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Cauã Porto Bello
 
-**`Desenvolvedor FullStack em formação | Ciência da Computação (3/8`**
+**`Desenvolvedor FullStack em formação | Ciência da Computação (3/8)`**
 
 Sou apaixonado por tecnologia desde a infância e tive meu primeiro contato com programação aos 10 anos, utilizando Lua e MySQL no desenvolvimento de servidores para MTA:SA. Desde então, venho buscando evoluir constantemente na área, aprendendo novas tecnologias e aprimorando minhas habilidades. Atualmente, curso Ciência da Computação na Universidade São Judas, possuo inglês avançado e experiência no desenvolvimento de projetos utilizando diferentes tecnologias.
 
