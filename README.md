@@ -109,10 +109,3 @@ Sou apaixonado por tecnologia desde a infância e tive meu primeiro contato com 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.shion.dev/api?username=CauaPortoBello&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" 
   />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="80" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=CauaPortoBello&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br" 
-  />
