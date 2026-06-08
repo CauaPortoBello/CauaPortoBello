@@ -95,6 +95,14 @@ Sou apaixonado por tecnologia desde a infância e tive meu primeiro contato com 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="<i class="devicon-typescript-plain"></i>" 
+/>
 
 <br/>
 <br/>
