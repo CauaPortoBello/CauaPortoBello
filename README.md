@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack em formação | Ciência da Computação (3/8)`**
 
-Sou apaixonado por tecnologia desde a infância e tive meu primeiro contato com programação aos 10 anos, utilizando Lua e MySQL no desenvolvimento de servidores para MTA:SA. Desde então, venho buscando evoluir constantemente na área, aprendendo novas tecnologias e aprimorando minhas habilidades. Atualmente, curso Ciência da Computação na Universidade São Judas, possuo inglês avançado e experiência no desenvolvimento de projetos utilizando diferentes tecnologias.
+Minha paixão por tecnologia começou cedo: tive meu primeiro contato com programação aos 10 anos, utilizando Lua e MySQL para criar servidores customizados no MTA:SA (Multi Theft Auto). O que começou como uma diversão na infância moldou minha lógica de desenvolvimento e me impulsionou a seguir a carreira acadêmica.
+Hoje, busco uma oportunidade para aplicar essa bagagem teórica e prática no ambiente corporativo, colaborando com equipes dinâmicas e acelerando meu crescimento profissional.
 
 <p align="left">
     <a href="https://www.youtube.com/@cauaportobellodev">
