@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em formação | Ciência da Computação (3/8)`**
 
-Olá! Eu me chamo Cauã Porto Bello, tenho 19 anos, sou natural de Vitória da Conquista (BA) e moro em São Paulo desde a infância. Minha paixão pela tecnologia começou cedo, pelo desejo de entender como os jogos funcionavam, e foi aos 12 anos que comecei a programar em Lua C para desenvolver scripts de jogos. Desde então, expandi meu conhecimento para Java, Python, TypeScript, JavaScript, HTML, CSS e bancos de dados MySQL, criando soluções para diversas áreas. Além disso, desenvolvi inglês avançado ao longo de cinco anos na Cidadão Pró Mundo. Atualmente, estou cursando Ciência da Computação na Universidade São Judas Tadeu, aonde sou líder de sala, sou bom com pessoas, tenho sede de aprendizado e busco minha primeira oportunidade como desenvolvedor júnior para me destacar no mercado.
+Olá! Eu me chamo Cauã Porto Bello, tenho 19 anos, sou natural de Vitória da Conquista (BA) e moro atualmente em São Paulo. Minha paixão pela tecnologia começou cedo, pelo desejo de entender como os jogos funcionavam, e foi aos 12 anos que comecei a programar em Lua C para desenvolver scripts de jogos. Desde então, expandi meu conhecimento para Java, Python, TypeScript, JavaScript, HTML, CSS e bancos de dados MySQL, criando soluções para diversas áreas. Além disso, desenvolvi inglês avançado ao longo de cinco anos na Cidadão Pró Mundo. Atualmente, estou cursando Ciência da Computação na Universidade São Judas Tadeu, aonde sou líder de sala, sou bom com pessoas, tenho sede de aprendizado e busco minha primeira oportunidade como desenvolvedor júnior para me destacar no mercado.
 
 <p align="left">
     <a href="https://www.youtube.com/@cauaportobellodev">
