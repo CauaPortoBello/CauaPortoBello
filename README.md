@@ -5,14 +5,14 @@
 Olá! Eu me chamo Cauã Porto Bello, tenho 19 anos, sou natural de Vitória da Conquista (BA) e moro atualmente em São Paulo. Minha paixão pela tecnologia começou cedo, pelo desejo de entender como os jogos funcionavam, e foi aos 12 anos que comecei a programar em Lua C para desenvolver scripts de jogos. Desde então, expandi meu conhecimento para Java, Python, TypeScript, JavaScript, HTML, CSS e bancos de dados MySQL, criando soluções para diversas áreas. Além disso, desenvolvi inglês avançado ao longo de cinco anos na Cidadão Pró Mundo. Atualmente, estou cursando Ciência da Computação na Universidade São Judas Tadeu, aonde sou líder de sala, sou bom com pessoas, tenho sede de aprendizado e busco minha primeira oportunidade como desenvolvedor júnior para me destacar no mercado.
 
 <p align="left">
-    <a href="https://www.youtube.com/@cauaportobellodev">
+    <a href="https://www.youtube.com/@CauaPortoBello">
         <img 
             alt="Inscritos" 
             title="Youtube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCLn3_G19OE6MDqanXmjJVCw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@cauaportobellodev">
+    <a href="https://www.youtube.com/@CauaPortoBello">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
