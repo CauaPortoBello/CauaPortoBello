@@ -1,102 +1,97 @@
-# 🧑🏻‍💻 Cauã Porto Bello
+<div align="center">
 
-**`Desenvolvedor FullStack em formação | Ciência da Computação (4/8)`**
+<!-- CARD PRINCIPAL: GIFs locais com suporte aos temas claro e escuro do GitHub. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/profile-card-light.gif">
+  <img src="assets/profile-card-light.gif" width="100%" alt="Card animado de apresentação de Cauã Porto Bello, com retrato pontilhado e informações de desenvolvimento">
+</picture>
 
-Olá! Meu nome é Cauã Porto Bello, tenho 19 anos, sou natural de Vitória da Conquista (BA) e atualmente moro em São Paulo.
+<br>
 
-Minha paixão pela tecnologia começou cedo. Aos 12 anos, tive meus primeiros contatos com a programação por meio da linguagem Lua C, linguagem que despertou meu interesse pelo desenvolvimento de software e me proporcionaram uma base sólida em lógica de programação. Desde então, venho expandindo meus conhecimentos e explorando diferentes tecnologias, como Java, Python, TypeScript, JavaScript, HTML, CSS e MySQL, aplicando esses conhecimentos na criação de soluções e no desenvolvimento de projetos.
+<a href="https://www.linkedin.com/in/caua-porto-bello/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Cauã Porto Bello">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/CauaPortoBello">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Cauã Porto Bello">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/CauaPortoBello/planejador-financeiro">
+  <img src="https://img.shields.io/badge/Projeto_em_destaque-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Projeto em destaque: Planejador Financeiro Pessoal">
+</a>
 
-Atualmente, curso Ciência da Computação na Universidade São Judas Tadeu, onde também atuei por quatro semestres como líder de sala, desenvolvendo habilidades de comunicação, liderança e trabalho em equipe. Além da minha formação técnica, possuo inglês avançado, desenvolvido ao longo de cinco anos de estudos na Cidadão Pró Mundo.
+<br><br>
 
-Sou movido pela curiosidade, pelo aprendizado contínuo e pela vontade de transformar ideias em soluções através da tecnologia. Busco constantemente aprimorar minhas habilidades, enfrentar novos desafios e evoluir como profissional na área de desenvolvimento de software.
+<a href="https://github.com/CauaPortoBello">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7B70C9&center=true&vCenter=true&width=900&height=45&lines=Cau%C3%A3+Porto+Bello+-+Desenvolvedor+de+Software;Backend+com+Java+%7C+APIs+REST;Construindo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Cauã Porto Bello — Desenvolvedor de Software">
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=CauaPortoBello&style=flat&color=7B70C9&label=visitas+ao+perfil" alt="Contador de visitas do perfil">
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre mim
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Lua" 
-    title="Lua"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Mysql" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Javascript" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Sou **Cauã Porto Bello**, estudante de **Ciência da Computação na Universidade São Judas Tadeu** e desenvolvedor de software. Meu primeiro contato com programação aconteceu cedo, criando scripts e sistemas para servidores multiplayer com **Lua e MySQL**. Essa experiência despertou meu interesse por lógica, estrutura de sistemas e resolução de problemas.
 
-<br/>
-<br/>
+Atualmente, direciono meus estudos para **desenvolvimento backend com Java**, construção de **APIs REST** e integração com bancos de dados relacionais. Também desenvolvo aplicações web e gosto de compreender um produto por inteiro — da lógica que sustenta a solução à experiência de quem utiliza.
 
-### 📊 Estatísticas
+Na universidade, atuei como **líder de sala**, experiência que fortaleceu minha comunicação, organização e colaboração em equipe. Também possuo **inglês avançado**, desenvolvido ao longo de cinco anos de estudos na Cidadão Pró Mundo.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.shion.dev/api?username=CauaPortoBello&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
+## Foco de desenvolvimento
+
+- **Backend:** Java, Spring Boot, APIs REST e organização de aplicações.
+- **Dados:** modelagem e integração com bancos de dados relacionais.
+- **Web:** React, TypeScript, JavaScript, HTML e CSS.
+
+## Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,js,lua,react,html,css,mysql,postgres,git,github,vscode&perline=7" alt="Java, Spring Boot, Python, TypeScript, JavaScript, Lua, React, HTML, CSS, MySQL, PostgreSQL, Git, GitHub e Visual Studio Code">
+</div>
+
+## Projeto em destaque
+
+### [Planejador Financeiro Pessoal](https://github.com/CauaPortoBello/planejador-financeiro)
+
+Aplicação web gratuita que transforma informações financeiras em um diagnóstico e um plano de ação. O projeto foi desenvolvido com **React e TypeScript**, com foco em privacidade, clareza e previsibilidade dos cálculos.
+
+- Motor financeiro determinístico, separado da interface.
+- Processamento realizado localmente no navegador, sem cadastro ou backend.
+- **137 testes automatizados aprovados.**
+- Publicação contínua pelo GitHub Pages.
+
+<div align="center">
+  <a href="https://cauaportobello.github.io/planejador-financeiro/">
+    <img src="https://img.shields.io/badge/Acessar_aplica%C3%A7%C3%A3o-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar o Planejador Financeiro Pessoal">
+  </a>
+  <a href="https://github.com/CauaPortoBello/planejador-financeiro">
+    <img src="https://img.shields.io/badge/Ver_c%C3%B3digo-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Ver código-fonte no GitHub">
+  </a>
+</div>
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CauaPortoBello&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=CauaPortoBello&show_icons=true&theme=default&hide_border=true&include_all_commits=true&locale=pt-br">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=CauaPortoBello&show_icons=true&theme=default&hide_border=true&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub de Cauã Porto Bello">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPortoBello&layout=compact&theme=github_dark&hide_border=true&langs_count=8&locale=pt-br">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPortoBello&layout=compact&theme=default&hide_border=true&langs_count=8&locale=pt-br">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauaPortoBello&layout=compact&theme=default&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios de Cauã Porto Bello">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <sub>Aprender continuamente. Construir com propósito. Evoluir a cada projeto.</sub>
+</div>
