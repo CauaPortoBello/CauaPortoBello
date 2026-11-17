@@ -4,7 +4,7 @@
 
 Olá! Meu nome é Cauã Porto Bello, tenho 19 anos, sou natural de Vitória da Conquista (BA) e atualmente moro em São Paulo.
 
-Minha paixão pela tecnologia começou cedo. Aos 12 anos, tive meus primeiros contatos com a programação por meio de Lua e C, linguagens que despertaram meu interesse pelo desenvolvimento de software e me proporcionaram uma base sólida em lógica de programação. Desde então, venho expandindo meus conhecimentos e explorando diferentes tecnologias, como Java, Python, TypeScript, JavaScript, HTML, CSS e MySQL, aplicando esses conhecimentos na criação de soluções e no desenvolvimento de projetos.
+Minha paixão pela tecnologia começou cedo. Aos 12 anos, tive meus primeiros contatos com a programação por meio da linguagem Lua C, linguagem que despertou meu interesse pelo desenvolvimento de software e me proporcionaram uma base sólida em lógica de programação. Desde então, venho expandindo meus conhecimentos e explorando diferentes tecnologias, como Java, Python, TypeScript, JavaScript, HTML, CSS e MySQL, aplicando esses conhecimentos na criação de soluções e no desenvolvimento de projetos.
 
 Atualmente, curso Ciência da Computação na Universidade São Judas Tadeu, onde também atuei por quatro semestres como líder de sala, desenvolvendo habilidades de comunicação, liderança e trabalho em equipe. Além da minha formação técnica, possuo inglês avançado, desenvolvido ao longo de cinco anos de estudos na Cidadão Pró Mundo.
 
