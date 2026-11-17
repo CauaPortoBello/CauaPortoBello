@@ -24,7 +24,7 @@
 <br><br>
 
 <a href="https://github.com/CauaPortoBello">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=315F91&center=true&vCenter=true&width=900&height=45&lines=Cau%C3%A3+Porto+Bello+-+Desenvolvedor+Full+Stack;Desenvolvimento+Full+Stack+-+Web+%26+APIs;Construindo+do+front-end+ao+back-end" alt="Cauã Porto Bello — Desenvolvedor Full Stack">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=315F91&center=true&vCenter=true&width=900&height=45&lines=Cau%C3%A3+Porto+Bello+-+Desenvolvedor+Full+Stack;Desenvolvimento+Full+Stack+-+Web+%26+APIs;Construindo+do+front-end+ao+back-end" alt="Cauã Porto Bello — Desenvolvedor de Software">
 </a>
 
 <br>
