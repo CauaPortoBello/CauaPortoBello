@@ -24,12 +24,12 @@
 <br><br>
 
 <a href="https://github.com/CauaPortoBello">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=7B70C9&center=true&vCenter=true&width=900&height=45&lines=Cau%C3%A3+Porto+Bello+-+Desenvolvedor+de+Software;Backend+com+Java+%7C+APIs+REST;Construindo+solu%C3%A7%C3%B5es+com+tecnologia" alt="Cauã Porto Bello — Desenvolvedor de Software">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=315F91&center=true&vCenter=true&width=900&height=45&lines=Cau%C3%A3+Porto+Bello+-+Desenvolvedor+Full+Stack;Desenvolvimento+Full+Stack+-+Web+%26+APIs;Construindo+do+front-end+ao+back-end" alt="Cauã Porto Bello — Desenvolvedor Full Stack">
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=CauaPortoBello&style=flat&color=7B70C9&label=visitas+ao+perfil" alt="Contador de visitas do perfil">
+<img src="https://komarev.com/ghpvc/?username=CauaPortoBello&style=flat&color=315F91&label=visitas+ao+perfil" alt="Contador de visitas do perfil">
 
 </div>
 
@@ -39,15 +39,15 @@
 
 Sou **Cauã Porto Bello**, estudante de **Ciência da Computação na Universidade São Judas Tadeu** e desenvolvedor de software. Meu primeiro contato com programação aconteceu cedo, criando scripts e sistemas para servidores multiplayer com **Lua e MySQL**. Essa experiência despertou meu interesse por lógica, estrutura de sistemas e resolução de problemas.
 
-Atualmente, direciono meus estudos para **desenvolvimento backend com Java**, construção de **APIs REST** e integração com bancos de dados relacionais. Também desenvolvo aplicações web e gosto de compreender um produto por inteiro — da lógica que sustenta a solução à experiência de quem utiliza.
+Atualmente, meu foco é o **desenvolvimento Full Stack**: criar aplicações de ponta a ponta, integrando interfaces web, regras de negócio, APIs e bancos de dados. Exploro tecnologias como **React, TypeScript e JavaScript** no front-end, além de **Java, Spring Boot e APIs REST** no back-end.
 
 Na universidade, atuei como **líder de sala**, experiência que fortaleceu minha comunicação, organização e colaboração em equipe. Também possuo **inglês avançado**, desenvolvido ao longo de cinco anos de estudos na Cidadão Pró Mundo.
 
 ## Foco de desenvolvimento
 
-- **Backend:** Java, Spring Boot, APIs REST e organização de aplicações.
-- **Dados:** modelagem e integração com bancos de dados relacionais.
-- **Web:** React, TypeScript, JavaScript, HTML e CSS.
+- **Full Stack:** desenvolvimento de aplicações web de ponta a ponta, conectando interface, lógica e dados.
+- **Front-end:** React, TypeScript, JavaScript, HTML e CSS.
+- **Back-end e dados:** Java, Spring Boot, APIs REST, MySQL e PostgreSQL.
 
 ## Tecnologias
 
